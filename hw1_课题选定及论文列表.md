@@ -15,7 +15,7 @@ Multi-view stereo（MVS）
 
 1. **MVSNet: Depth Inference for Unstructured Multi-view Stereo**
     - ECCV(2018)
-    - 原文链接：[https://arxiv.org/pdf/1804.02505.pdf](https://arxiv.org/pdf/1804.02505.pdf)
+    - [原文](https://arxiv.org/pdf/1804.02505.pdf)
 2. **Cost Volume Pyramid Based Depth Inference for Multi-View Stereo**
     - CVPR/TPAMI(2020)
     - 原文链接：[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9439197](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9439197)
