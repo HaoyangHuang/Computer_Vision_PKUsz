@@ -8,7 +8,7 @@
 
 ## （1）下载Anaconda并安装
 
-前往Anaconda官网[https://www.anaconda.com/](https://www.anaconda.com/)点击download，下载完安装包后点击安装
+前往[Anaconda官网](https://www.anaconda.com/)点击download，下载完安装包后点击安装
 
 ![Untitled](hw2_python%E5%9F%BA%E7%A1%80%20d5bddc1113d044d3902cb9be6d952f7b/Untitled.png)
 
